@@ -1,0 +1,50 @@
+body {
+    margin-inline: 100px;
+    background-color: darkcyan;
+}
+
+
+.Header {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {   
+    height: auto; 
+    padding: 1px;
+}
+
+.Logo {
+    display: flex;
+    width: 177px;
+    height: 100px;
+    border: 2px solid white;
+}
+.Menu {
+    display: flex;
+    align-items: flex-end;
+    color: whitesmoke;
+}
+
+.Link-One {
+    padding-inline: 10px;
+}
+
+.Link-Two {
+    padding-inline: 10px;
+}
+
+.Link-Three {
+    padding-inline: 10px;
+}
+
+ul {
+    gap: 35px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    
+}
